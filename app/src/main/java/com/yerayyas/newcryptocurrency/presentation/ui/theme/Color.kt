@@ -1,4 +1,4 @@
-package com.yerayyas.newcryptocurrency.ui.theme
+package com.yerayyas.newcryptocurrency.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
